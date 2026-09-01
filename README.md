@@ -912,6 +912,10 @@ User             React Component           API Service          FastAPI Endpoint
 - **`motion`**: High performance animations.
 - **`axios`**: HTTP request library with response interceptors.
 
+## 🚀 Live Demo Deployment
+
+👉 [**Open AI Workforce Management System**](https://ai-workforce-management-system-1-8cxu.onrender.com)
+
 ## 🎥 Project Demo Video
 
 Click below to view the complete project demonstration:
