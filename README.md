@@ -911,3 +911,9 @@ User             React Component           API Service          FastAPI Endpoint
 - **`lucide-react`**: Clean icon system.
 - **`motion`**: High performance animations.
 - **`axios`**: HTTP request library with response interceptors.
+
+## 🎥 Project Demo Video
+
+Click below to view the complete project demonstration:
+
+[▶️ Watch / Download Demo Video](https://github.com/vishnuvardhan-10/AI-Powered-Workforce-Analytics-Talent-Intelligence-Dashboard-/releases/download/v1.0.0/demo.video.mp4)
